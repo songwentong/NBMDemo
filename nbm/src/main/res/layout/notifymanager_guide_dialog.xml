@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/notifymanager_guide_dialog_bg"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/nbm_top_textView_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/notify_clean_notification_guide_title"
+        android:textColor="@color/normal_text_color_fa"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="222dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxLines="5"
+        android:text="@string/notify_clean_notification_guide_summary"
+        android:textColor="@color/normal_text_color_fa"
+        android:textSize="14sp"
+        android:id="@+id/nbm_contentTextView" />
+
+    <TextView
+        android:id="@+id/nbm_clean_now_id"
+        android:layout_width="122dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="18dp"
+        android:background="@drawable/notifymanager_action_bg"
+        android:gravity="center"
+        android:text="@string/notify_clean_notification_guide_action"
+        android:textColor="#2979ff"
+        android:textSize="14sp" />
+</LinearLayout>

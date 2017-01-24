@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="notify_autorun_appstart_titlte">Auto-start apps are draining battery</string>
+    <!-- new app installed -->
+    <string name="notify_scan_title">New app: %1$s</string>
+    <string name="notify_scan_summary">Scanning \"%1$s\"</string>
+    <!-- malware installed -->
+    <string name="notify_malware_title">Malware: %1$s</string>
+    <string name="notify_malware_summary">Tap for details</string>
+    <!-- risky app installed -->
+    <string name="notify_risky_app_title">Risky: %1$s</string>
+    <string name="notify_risky_app_summary">Tap for details</string>
+    <!-- safe app installed -->
+    <string name="notify_safe_app_title">%1$s is safe</string>
+    <string name="notify_safe_app_summary">Protected by 360 Security</string>
+    <!-- virus db update -->
+    <string name="notify_antivirus_update_title">Database updated</string>
+    <string name="notify_antivirus_update_summary">Scan for immediate protection</string>
+    <!-- auto start -->
+    <string name="notify_auto_start_title">%1$s apps lag your device</string>
+    <string name="notify_auto_start_summary">Tap to boost</string>
+    <!-- junk clear -->
+    <string name="notify_clean_title">%1$s junk files found</string>
+    <string name="notify_clean_summary">Tap to clean</string>
+    <!-- boost -->
+    <string name="notify_boost_title">Your phone is running slow</string>
+    <string name="notify_boost_summary">Tap to boost</string>
+    <!-- adv app -->
+    <string name="notify_adv_app_title">Adware: %1$s</string>
+    <string name="notify_adv_app_summary">Tap for details</string>
+    <!-- battery low -->
+    <!-- battery low power remind -->
+    <string name="notify_battery_low_power_remind_title">Battery draining FAST!</string>
+    <string name="notify_battery_low_power_remind_summary">%s can be extended!</string>
+    <!-- power remind -->
+    <string name="notify_power_remind_title"><![CDATA[%s may <font color="#ff7043">slow down</font> your device]]></string>
+    <string name="notify_power_remind_summary">Boost to run smoother</string>
+    <string name="notify_introduce_to_applock_title">%s can be safer</string>
+    <string name="notify_introduce_to_applock_summary">Lock for privacy security</string>
+    <string name="notify_introduce_to_gameboost_title">%s is safe</string>
+    <string name="notify_introduce_to_gameboost_summary">Tap for faster gaming</string>
+    <!-- Notification Manager -->
+    <string name="notify_nsl_title">Find notifications annoying?</string>
+    <string name="notify_nsl_summary">Tap to hide unwanted ones</string>
+    <!-- boost active -->
+    <string name="notify_boost_active_title"><![CDATA[%1$s apps <font color="#ff7043">consume huge RAM</font>]]></string>
+    <string name="notify_boost_active_summary">Boost to run smoother</string>
+    <string name="notify_boost_app_reason"><![CDATA[%s apps <font color="#ff7043">slow down</font> your phone]]></string>
+    <string name="notify_introduce_clean_title">Device not cleaned for a while</string>
+    <string name="notify_introduce_clean_summary">Remove redundant and useless files now</string>
+    <string name="notify_introduce_safe_protected">%s is installed and protected</string>
+    <string name="notify_introduce_power_hungry">Battery-draining apps found:</string>
+    <!-- wifi safe -->
+    <string name="wifi_safe_main_title">New Wi-Fi Connected</string>
+    <string name="wifi_safe_main_summary">Suggest to check security</string>
+    <string name="wifi_safe_change_title">Network change detected</string>
+    <string name="wifi_safe_video_title">Low Wi-Fi speed</string>
+    <string name="wifi_safe_video_summary">Boost for faster network</string>
+    <!-- permission -->
+    <string name="notify_authorization_needed_to_run_a_full_scan">Permission required to run a full scan</string>
+    <string name="notify_for_safety_please_allow_360_security_to_access_storage">For safety, please allow 360 Security to access Storage in order to fully scan your device</string>
+    <string name="important_reminder">Important Reminder</string>
+    <string name="to_prevent_phone_loss_please_grant_360_security_permissions">To prevent loss of your phone, please grant 360 Security permissions in order to run Find My Phone normally</string>
+    <!--Find My Phone is a feature name, please translate it.-->
+    <string name="authorization_needed_to_use_find_my_phone">Permissions required to use Find My Phone</string>
+    <string name="notify_battery_low_title_2">Low battery!</string>
+    <string name="notify_battery_low_summary_2">Extend %s battery time </string>
+    <string name="notify_clear_manager_title">Annoyed by unwanted notifications?</string>
+    <string name="notify_clear_manager_summary">Enable notification manager</string>
+
+    <string name="notify_battery_overheat_title">Overheat detected!</string>
+    <string name="notify_battery_overheat_summary">Cool down your phone</string>
+
+    <string name="notify_introduce_to_gameboost_new_title">%1$s can be %2$d%% faster gaming</string>
+    <string name="notify_antivirus_update_new_title">Virus Database Updated</string>
+    <string name="notify_antivirus_update_new_summary">Scan to protect your privacy</string>
+    <!--清理完成通知栏清理的引导-->
+    <string name="notify_clean_notification_guide_title">Clean junk notifications</string>
+    <string name="notify_clean_notification_guide_summary">Annoyed by junk notifications and slowing down device</string>
+    <string name="notify_clean_notification_guide_action">CLEAN NOW</string>
+    <string name="notify_clean_radom_title1">%1$s System Junk files found</string>
+    <string name="notify_clean_radom_title2">%1$s App Junk files found</string>
+    <string name="notify_clean_radom_title3">%1$s Residual Waste found</string>
+    <string name="notify_applock_privacy_risk"><![CDATA[%1$s has <font color="#ff7043">privacy risk</font>]]></string>
+    <string name="notify_auto_start_title_new">%1$s auto-start apps draining battery</string>
+    <string name="notify_anti_disturb_dialog">Clean unwanted notification Unwanted notifications lagging your device seriously！</string>&gt;
+</resources>
